@@ -30,24 +30,32 @@
 - **Original**: Biomedical image segmentation.
 - **Extended**: Any Semantic segmentation tasks.
 
-For a deeper dive, check out the [https://link_to_paper](https://arxiv.org/abs/1505.04597)).
+For a deeper dive, check out the [link_to_paper](https://arxiv.org/abs/1505.04597)).
 
 
 We have implemented U-Net on the Binary instrument segmentation task from the ROBUST-MIS Challenge dataset. 
 
 ## Dataset
-We have used a binary segmentation dataset from ROBUST-MIS Challenge. You can down the dataset from <a href="https://robustmis2019.grand-challenge.org/">here</a>.
+We have used a binary segmentation dataset from the ROBUST-MIS Challenge. You can down the dataset from <a href="https://robustmis2019.grand-challenge.org/">here</a>.
 
 ## Results
 
 <p align="center">
-<img src="img/quantitative.png">
+<img src="img/Quantitative.png">
 </p>
 
 
 <p align="center">
-<img src="Img/qualitative.png">
+<img src="img/Qualitative.png">
 </p>
+
+## Discussion
+We got the best results with [DDANet](https://arxiv.org/pdf/2012.15245.pdf) on this dataset. 
+
+The official link to the DDANet code can be found [here](https://github.com/nikhilroxtomar/DDANet). 
+
+## More description and citation
+More details about the work can be found in our paper. Please cite our work [Exploring Deep Learning Methods for Real-Time Surgical Instrument Segmentation in Laparoscopy](https://arxiv.org/pdf/2107.02319.pdf) if you find it useful. 
 
 
 
