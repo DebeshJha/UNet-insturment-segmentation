@@ -1,7 +1,14 @@
 
 # U-Net Architecture for Image Segmentation (ROBUST-MIS-Challenge-dataset)
 
+
  **U-Net** is a renowned convolutional neural network (CNN) designed primarily for biomedical image segmentation. 
+
+ <p align="center">
+<img src="img/UNet.png">
+</p>
+Kindly note that the figure is taken from the original paper. 
+
 ## 🔍 Key Features
 
 - **Symmetrical Design**: Comprising an encoder (contracting path) and a decoder (expansive path).
