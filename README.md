@@ -1,5 +1,5 @@
 
-# U-Net Architecture for Image Segmentation (ROBUST-MIS-Challenge-dataset)
+# U-Net Architecture for Surgical Image Segmentation (ROBUST-MIS-Challenge-dataset)
 
 
  **U-Net** is a renowned convolutional neural network (CNN) designed primarily for biomedical image segmentation. 
@@ -18,7 +18,7 @@ Kindly note that the figure is taken from the original paper.
 ## Structure
 
 1. **Encoder**:
-   - Two 3x3 convolutions, each followed by a ReLU and a 2x2 max pooling.
+   - Two 3x3 convolutions followed by a ReLU and a 2x2 max pooling.
    - Feature channels double after each pooling.
   
 2. **Bottleneck**:
