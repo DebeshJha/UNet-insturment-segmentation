@@ -61,8 +61,8 @@ We got the best results with [DDANet](https://arxiv.org/pdf/2012.15245.pdf) on t
 
 The official link to the DDANet code can be found [here](https://github.com/nikhilroxtomar/DDANet). 
 
-## More description and citation
-More details about the work can be found in our paper. Please cite our work [Exploring Deep Learning Methods for Real-Time Surgical Instrument Segmentation in Laparoscopy](https://arxiv.org/pdf/2107.02319.pdf) if you find it useful. 
+## References
+Please cite our work [Exploring Deep Learning Methods for Real-Time Surgical Instrument Segmentation in Laparoscopy](https://arxiv.org/pdf/2107.02319.pdf) if you find it useful. 
 
 
 
